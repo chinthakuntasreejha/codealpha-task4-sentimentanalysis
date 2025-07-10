@@ -1,0 +1,11 @@
+review,sentiment
+"I love this product, it's amazing and works perfectly!",Positive
+"Terrible experience, I want a refund!",Negative
+"It's okay, not great but not bad either.",Positive
+Absolutely fantastic! Exceeded my expectations.,Positive
+Not worth the price.,Negative
+"Average quality, nothing special.",Positive
+Best purchase I've ever made.,Positive
+"Awful, stopped working after a week.",Negative
+"Pretty good, happy with it.",Positive
+"Neutral opinion, nothing stood out.",Neutral
